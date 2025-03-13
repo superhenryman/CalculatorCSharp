@@ -1,0 +1,2 @@
+E:\Calculator\Calculator\bin\Release\net9.0-windows\win-x64\publish\Calculator.pdb
+E:\Calculator\Calculator\bin\Release\net9.0-windows\win-x64\publish\Calculator.exe
